@@ -11,4 +11,10 @@ Read more about the dataset on the [website](http://cocodataset.org/#home) or in
 
 ## Project Walkthrough 
 
-1. Exploring the Microsoft COCO Dataset: [COC0](https://github.com/chaithanya21/Image-Caption-Generator/blob/master/Dataset.ipynb)
+1. Exploring the Microsoft COCO Dataset: [COC0](https://github.com/chaithanya21/Image-Caption-Generator/blob/master/Dataset.ipynb) 
+
+2. Data Preprocessing and Model Building: [Jupyter Notebook](https://github.com/chaithanya21/Image-Caption-Generator/blob/master/PreProcssing.ipynb)
+
+3. Model Training and Validation : [Train and Validate](https://github.com/chaithanya21/Image-Caption-Generator/blob/master/Train%20and%20Validate.ipynb)
+ 
+4. Results : [Inference](https://github.com/chaithanya21/Image-Caption-Generator/blob/master/Model%20Inference.ipynb)
